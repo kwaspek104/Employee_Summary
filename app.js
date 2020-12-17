@@ -95,11 +95,11 @@ function addEngineer() {
         },
         {
             type: 'input',
-            name: 'gitHub',
+            name: 'github',
             message: "What is your engineer's github?"
         }
     ]).then(res => {
-        const engineer = new Engineer(res.name, res.id, res.email, res.gitHub);
+        const engineer = new Engineer(res.name, res.id, res.email, res.github);
         teamMembers.push(engineer);
         addTeammates();
     })
