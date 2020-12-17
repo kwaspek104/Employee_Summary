@@ -17,7 +17,7 @@ Happy Holidays!
 Simply clone this repo to your local machine.
 
 ## Usage
-This is used to generate a readme whenever you want. This video should also help, as it demonstrates how to use the application: https://drive.google.com/file/d/1RUnDt9MZ_quV3ghfPBiZMw0KIE31h7Qw/view
+This is used to generate a website with your employee's relevant info. This video should also help, as it demonstrates how to use the application: https://drive.google.com/file/d/1RUnDt9MZ_quV3ghfPBiZMw0KIE31h7Qw/view
 
 ## Tests
 Run "npm run test" in the console. If it doesn't work initially, it may be because it had to create a "Develop" folder. Run "npm run test" again and it should work. 
